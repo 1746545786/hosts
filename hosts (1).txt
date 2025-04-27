@@ -3,6 +3,7 @@
 # sort 1 >2 重新排序
 # cat 1 2|awk '!x[$0]++' >hosts 1和2文件去重复行
 #字节头条快手联盟微信
+127.0.0.1 szextshort.weixin.qq.com
 127.0.0.1 ossgw.alicdn.com
 127.0.0.1 wxsmw.wxs.qq.com
 127.0.0.1 pp.myapp.com
