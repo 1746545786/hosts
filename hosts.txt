@@ -26,7 +26,6 @@
 127.0.0.1 szextshort.weixin.qq.com
 127.0.0.1 ossgw.alicdn.com
 127.0.0.1 wxsmw.wxs.qq.com
-127.0.0.1 pp.myapp.com
 127.0.0.1 wximg.wxs.qq.com
 127.0.0.1 tx-proxy.pull.yximgs.com
 127.0.0.1 open.kwaizt.com
