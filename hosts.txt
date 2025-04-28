@@ -92,6 +92,7 @@
 127.0.0.1 metrics-collector.xaidc.com
 127.0.0.1 ccs.umeng.com
 #oppo天气
+127.0.0.1 ibrowser.feeds.heytapmobi.com
 127.0.0.1 obus-cn.dc.heytapmobi.com
 127.0.0.1 obus-dc2007-cn.heytapmobi.com
 #今日头条
