@@ -91,6 +91,15 @@
 127.0.0.1 metrics-collector.xaidc.com
 127.0.0.1 ccs.umeng.com
 #oppo天气
+127.0.0.1 apisnd.heytapmobi.com
+127.0.0.1 dhfs.heytapimage.com
+127.0.0.1 i.browser.heytapmobi.com
+127.0.0.1 mdp-appconf-cn.heytapdownload.com
+127.0.0.1 mdp-usertrace-cn.heytapmobi.com
+127.0.0.1 news.heytapdownload.com
+127.0.0.1 obus-jssdk-cn.heytapmobi.com
+127.0.0.1 stat.browser.heytapmobi.com
+127.0.0.1 support.browser.heytapmobi.com
 127.0.0.1 ibrowser.feeds.heytapmobi.com
 127.0.0.1 obus-cn.dc.heytapmobi.com
 127.0.0.1 obus-dc2007-cn.heytapmobi.com
