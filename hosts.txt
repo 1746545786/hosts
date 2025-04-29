@@ -96,7 +96,7 @@
 127.0.0.1 i.browser.heytapmobi.com
 127.0.0.1 mdp-appconf-cn.heytapdownload.com
 127.0.0.1 mdp-usertrace-cn.heytapmobi.com
-127.0.0.1 news.heytapdownload.com
+#127.0.0.1 news.heytapdownload.com
 127.0.0.1 obus-jssdk-cn.heytapmobi.com
 127.0.0.1 stat.browser.heytapmobi.com
 127.0.0.1 support.browser.heytapmobi.com
